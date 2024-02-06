@@ -10,9 +10,7 @@
   >	Optimized the report using DAX studio, which saved 30% of storage and improved performance by 10%
   
 
-
-
-<> By doing this project I acquired technical skills are as mentioned below:
+- By doing this project I acquired technical skills are as mentioned below:
 
   
  Power BI Desktop
