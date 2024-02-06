@@ -15,13 +15,13 @@
 - By doing this project I acquired technical skills are as mentioned below:
 
   
-	Power BI Desktop
+     	Power BI Desktop
 
-     	> Data Import and Connection
+     	  - Data Import and Connection
 
-      >	Data Visualization, Report Building, Dashboard Creation
+        -	Data Visualization, Report Building, Dashboard Creation
 
-      > Using KPI indicators
+        - Using KPI indicators
 
       >	Conditional Formatting
 
