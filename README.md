@@ -8,6 +8,8 @@
   >	Imported 2 different data sources (MySQL, and Excel) with more than 1 million records and performed data modeling.
    
   >	Optimized the report using DAX studio, which saved 30% of storage and improved performance by 10%
+
+  [Live Dashboard](https://www.novypro.com/project/dashboard-business-insight-360)
   
 
 - By doing this project I acquired technical skills are as mentioned below:
