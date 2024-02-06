@@ -33,21 +33,36 @@
 
 
 	Power Query
-	Handling errors and data cleansing techniques.
-	Append Query
-	Merge Query
-	Custom Column
-	Creating date table using m language
+
+>	Handling errors and data cleansing techniques
+
+>	Append Query
+
+>	Merge Query
+
+>	Custom Column
+
+>	Creating date table using m language
+
 	DAX Language
-	Defining Calculated Column and measures using the DAX
-	Dynamic titles based on the applied filters
-	Used DAX functions like: Aggregate, Text, Conditional, Time Intelligence, Statistical, Mathematical, Date and Time functions.
-	Data Modeling
-	Creating Relationship between different tables
-	Star Schema
-	Snowflake Schema
+
+>	Defining Calculated Column and measures using the DAX
+
+>	Dynamic titles based on the applied filters
+
+>	Used DAX functions like: Aggregate, Text, Conditional, Time Intelligence, Statistical, Mathematical, Date and Time functions.
+
+>	Data Modeling
+
+>	Creating Relationship between different tables
+
+>	Star Schema and Snowflake Schema
+
 	DAX Studio (for report optimization)
+
 	Power BI services
+
 	Publishing reports to Power BI services
+
 	Setting up the personal gateway to set up the auto-refresh of data
 
