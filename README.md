@@ -18,18 +18,12 @@
      	Power BI Desktop
 
      	  - Data Import and Connection
-
         -	Data Visualization, Report Building, Dashboard Creation
-
         - Using KPI indicators
-
-      >	Conditional Formatting
-
-      >	Bookmarks (Used to switch between two visuals)
-
-      >	Page navigation with buttons
-
-      >	Tooltips
+        - Conditional Formatting
+        -	Bookmarks (Used to switch between two visuals)
+        -	Page navigation with buttons
+        -	Tooltips
 
 	Power Query
 	Handling errors and data cleansing techniques.
