@@ -12,7 +12,7 @@
 
 
 
-- By doing this project I acquired technical skills are as mentioned below:
+By doing this project I acquired technical skills are as mentioned below:
 
   
  Power BI Desktop
