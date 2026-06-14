@@ -9,7 +9,9 @@
    
   >	Optimized the report using DAX studio, which saved 30% of storage and improved performance by 10%
 
-  [Live Dashboard](https://www.novypro.com/project/dashboard-business-insight-360)
+  ![Finance_View Preview](Finance_View)
+  ![Sales_View Preview](Sales_View)
+  ![Marketing_View Preview](Marketing_View)
   
 
 - By doing this project I acquired technical skills are as mentioned below:
