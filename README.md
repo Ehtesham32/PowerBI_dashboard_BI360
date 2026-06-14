@@ -9,9 +9,14 @@
    
   >	Optimized the report using DAX studio, which saved 30% of storage and improved performance by 10%
 
-  ![Finance_View Preview](Finance_View)
-  ![Sales_View Preview](Sales_View)
-  ![Marketing_View Preview](Marketing_View)
+Finance View - 
+  ![Finance_View Preview](Finance_View.png)
+
+Sales View - 
+  ![Sales_View Preview](Sales_View.png)
+
+Marketing View - 
+  ![Marketing_View Preview](Marketing_View.png)
   
 
 - By doing this project I acquired technical skills are as mentioned below:
